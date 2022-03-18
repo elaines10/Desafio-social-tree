@@ -1,0 +1,281 @@
+html {
+  background-color: #faf7fd;
+}
+
+.image {
+  position: absolute;
+
+  width: 200px;
+
+  height: 190px;
+
+  left: 612px;
+
+  top: 23px;
+
+  border-radius: 499px;
+}
+.bola {
+  position: absolute;
+
+  border-radius: 50%;
+
+  display: inline-block;
+
+  height: 198px;
+
+  width: 206px;
+
+  border: 2px solid #bb99dd;
+
+  top: 17px;
+
+  left: 607px;
+}
+.insta {
+  position: absolute;
+
+  top: 230px;
+
+  left: 669px;
+
+  color: #bb99dd;
+
+  font-family: Poppins;
+
+  font-style: normal;
+
+  font-weight: 300;
+
+  font-size: 16px;
+
+  line-height: 24px;
+
+  text-align: center;
+
+  text-decoration: none;
+}
+#retangle1 {
+  position: absolute;
+
+  width: 326px;
+
+  height: 49px;
+
+  left: 556px;
+
+  top: 300px;
+
+  text-align: center;
+
+  border: 2px solid #bb99dd;
+
+  box-sizing: border-box;
+
+  border-radius: 4px;
+}
+.link1 {
+  position: absolute;
+
+  font-family: Poppins;
+
+  font-style: normal;
+
+  font-weight: 600;
+
+  font-size: 16px;
+
+  line-height: 36px;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  left: 144px;
+
+  text-transform: uppercase;
+
+  color: #b9d;
+}
+#retangle2 {
+  position: absolute;
+
+  width: 326px;
+
+  height: 49px;
+
+  left: 556px;
+
+  top: 363px;
+
+  border: 2px solid #bb99dd;
+
+  box-sizing: border-box;
+
+  border-radius: 4px;
+}
+.link2 {
+  position: absolute;
+
+  font-family: Poppins;
+
+  font-style: normal;
+
+  font-weight: 600;
+
+  font-size: 16px;
+
+  line-height: 36px;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  left: 144px;
+
+  text-transform: uppercase;
+
+  color: #b9d;
+}
+#retangle3 {
+  position: absolute;
+
+  width: 326px;
+
+  height: 49px;
+
+  left: 556px;
+
+  top: 423px;
+
+  border: 2px solid #bb99dd;
+
+  box-sizing: border-box;
+
+  border-radius: 4px;
+
+  text-align: center;
+
+  font-family: Poppins;
+
+  font-style: normal;
+
+  font-weight: 600;
+
+  font-size: 16px;
+
+  line-height: 36px;
+}
+.link3 {
+  position: absolute;
+
+  font-family: Poppins;
+
+  font-style: normal;
+
+  font-weight: 600;
+
+  font-size: 16px;
+
+  line-height: 36px;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  left: 144px;
+
+  text-transform: uppercase;
+
+  color: #b9d;
+}
+#retangle4 {
+  position: absolute;
+
+  width: 326px;
+
+  height: 49px;
+
+  left: 556px;
+
+  top: 485px;
+
+  border: 2px solid #bb99dd;
+
+  box-sizing: border-box;
+
+  border-radius: 4px;
+
+  text-align: center;
+
+  font-family: Poppins;
+
+  font-style: normal;
+
+  font-weight: 600;
+
+  font-size: 16px;
+
+  line-height: 36px;
+}
+.link4 {
+  position: absolute;
+
+  font-family: Poppins;
+
+  font-style: normal;
+
+  font-weight: 600;
+
+  font-size: 16px;
+
+  line-height: 36px;
+
+  text-decoration: none;
+
+  text-align: center;
+
+  left: 144px;
+
+  text-transform: uppercase;
+
+  color: #b9d;
+}
+
+.twitter {
+  position: absolute;
+
+  top: 597px;
+
+  left: 576px;
+}
+.twitch {
+  position: absolute;
+
+  top: 597px;
+
+  left: 630px;
+}
+
+.instagram {
+  position: absolute;
+
+  top: 597px;
+
+  left: 692px;
+}
+
+.linkedin {
+  position: absolute;
+
+  top: 597px;
+
+  left: 752px;
+}
+.github {
+  position: absolute;
+
+  top: 597px;
+
+  left: 812px;
+}
